@@ -1,4 +1,6 @@
-# Face Recognition-Based Attendance System This project implements a face recognition-based attendance system using Python, OpenCV, Flask, and scikit-learn. It allows for registering new users, taking attendance, and managing user data.  
+# Face Recognition-Based Attendance System 
+
+This project implements a face recognition-based attendance system using Python, OpenCV, Flask, and scikit-learn. It allows for registering new users, taking attendance, and managing user data.  
 ## Technologies Used 
 
 * **Python:** Programming language 
